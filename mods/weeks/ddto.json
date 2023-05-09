@@ -1,0 +1,59 @@
+{
+	"storyName": "Doki Doki Takeover",
+	"difficulties": "Doki",
+	"hideFreeplay": false,
+	"weekBackground": "doki",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dokitogether",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"high school conflict",
+			"monika-pixel-new",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"beathoven (natsuki mix)",
+			"natsuki-new",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Titular (MC Mix)",
+			"protag",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Poems N' Thorns",
+			"duet",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "ddto",
+	"hiddenUntilUnlocked": false
+}
