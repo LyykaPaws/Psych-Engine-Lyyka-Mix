@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Improbable Outset",
+			"trickymask",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Madness",
+			"tricky",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Hell Clown",
+	"weekName": "tricky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
