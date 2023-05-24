@@ -25,9 +25,9 @@ function onCreate()
 	setLuaSpriteScrollFactor('banner', 1, 1)
 	addLuaSprite('banner', false)
 
-	--makeLuaSprite('desks', '/stages/doki/festival/DesksFestival', 0, 0)
-	--scaleObject('desks', 1, 1)
-	--setLuaSpriteScrollFactor('desks', 1, 1)
-	--addLuaSprite('desks', false)
+	makeLuaSprite('desks', '/stages/doki/festival/DesksFestival', 0, 0)
+	scaleObject('desks', 1, 1)
+	setLuaSpriteScrollFactor('desks', 1, 1)
+	addLuaSprite('desks', true)
 
 end
