@@ -1,0 +1,50 @@
+{
+	"storyName": "RetroSpecter",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"preseason",
+			"retro-minus",
+			[
+				66,
+				255,
+				255
+			]
+		],
+		[
+			"sigma",
+			"retro-minus",
+			[
+				66,
+				255,
+				255
+			]
+		],
+		[
+			"acidiron",
+			"retro-minus",
+			[
+				66,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "retrospecter"
+}
