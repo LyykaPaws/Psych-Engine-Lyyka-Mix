@@ -5,7 +5,7 @@ function onCreate()
 	setLuaSpriteScrollFactor('backdrop', 1, 1)
 	addLuaSprite('backdrop', false)
 
-	makeLuaSprite('bg1', 'stages/doki/wilted/bg', 5, 5)
+	makeLuaSprite('bg1', 'stages/doki/wilted/bg', 155, 155)
 	scaleObject('bg1', 0.9, 0.9)
 	setLuaSpriteScrollFactor('bg1', 1, 1)
 	addLuaSprite('bg1', false)
@@ -16,12 +16,12 @@ function onCreate()
 	--setPropety('bg2.alpha', 0)
 	--addLuaSprite('bg2', false)
 
-	makeLuaSprite('p1', 'stages/doki/wilted/p1', 3, 3)
+	makeLuaSprite('p1', 'stages/doki/wilted/p1', 153, 153)
 	scaleObject('p1', 0.9, 0.9)
 	setLuaSpriteScrollFactor('p1', 1, 1)
 	addLuaSprite('p1', false)
 
-	makeLuaSprite('p2', 'stages/doki/wilted/p2', 3, 3)
+	makeLuaSprite('p2', 'stages/doki/wilted/p2', 153, 153)
 	scaleObject('p2', 0.9, 0.9)
 	setLuaSpriteScrollFactor('p2', 1, 1)
 	setProperty('p2.alpha', 0)
@@ -33,11 +33,12 @@ function onCreate()
 	setLuaSpriteScrollFactor('bl', 1, 1)
 	setObjectCamera('bl', 'other')
 	setProperty('bl.alpha', 1)
-	addLuaSprite('bl', true)
+	addLuaSprite('bl', false)
 
 
 	addCharacterToList('senpai-angry-wilted', 'dad')
 	addCharacterToList('senpai-nonpixel-wilted', 'dad')
+	addCharacterToList('senpai-angrynonpixel-wilted', 'dad')
 	addCharacterToList('monika-pixelnew-wilted', 'boyfriend')
 
 end
@@ -45,9 +46,6 @@ end
 function onStepHit()
 	if curStep == 18 then
 		setProperty('bl.alpha', 0)
-	elseif curStep == 622 then
-		setProperty('p2.alpha', 1)
-		setProperty('p1.alpha', 0)
 	--elseif curStep == 791 then
 	--	setProperty('bg2.alpha', 1)
 	--	setProperty('bg1.alpha', 0)
