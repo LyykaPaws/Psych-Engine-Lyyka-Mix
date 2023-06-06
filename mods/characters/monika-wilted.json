@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "Monika Returns Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Monika Returns Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-107,
 				15
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Monika Returns Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Monika Returns Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-29,
 				-10
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Monika Returns Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monika Returns Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-30,
 				-52
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Monika Returns Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Monika Returns Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-21,
 				40
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Monika Returns Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Monika Returns Left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Doki_MonikaNonPixel_Assets",
+	"image": "characters/doki/monika",
 	"position": [
 		-330,
 		-110

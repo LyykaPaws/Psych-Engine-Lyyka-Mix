@@ -1,69 +1,68 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-40,
 				24
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Sing Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-50,
 				-170
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Sing Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				130,
 				-20
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Sing Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-130,
 				-7
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Sing Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				59,
 				32
 			],
-			"anim": "hey",
+			"loop": false,
 			"fps": 24,
-			"name": "Yeah",
-			"indices": []
+			"anim": "hey",
+			"indices": [],
+			"name": "Yeah"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 24,
-			"name": "Idle",
+			"anim": "danceRight",
 			"indices": [
 				8,
 				9,
@@ -73,17 +72,17 @@
 				13,
 				14,
 				15
-			]
+			],
+			"name": "Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 24,
-			"name": "Idle",
+			"anim": "danceLeft",
 			"indices": [
 				0,
 				1,
@@ -93,11 +92,12 @@
 				5,
 				6,
 				7
-			]
+			],
+			"name": "Idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky-bside",
+	"image": "characters/b/spooky",
 	"position": [
 		0,
 		200

@@ -1,74 +1,74 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-9,
 				10
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-30
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				50
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				27
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "Dad idle dance",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
 			"indices": [],
-			"fps": 24,
-			"anim": "ddrStomp",
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
 			"loop": false,
-			"name": "Dad meow"
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "ddrStomp",
+			"fps": 24,
+			"name": "Dad meow",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/KAPI_ANGRY",
+	"image": "characters/kapi/angry",
 	"position": [
 		10,
 		0

@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Headache",
+			"dad",
+			[
+				26,
+				255,
+				215
+			]
+		],
+		[
+			"Nerves",
+			"dad",
+			[
+				26,
+				255,
+				215
+			]
+		],
+		[
+			"Release",
+			"dad",
+			[
+				26,
+				255,
+				215
+			]
+		],
+		[
+			"Fading",
+			"dad",
+			[
+				26,
+				255,
+				215
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Smoke 'Em Out Struggle",
+	"weekName": "SeoS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

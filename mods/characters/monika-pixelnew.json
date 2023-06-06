@@ -1,162 +1,162 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "MkaIdle",
-			"indices": []
+			"indices": [],
+			"name": "MkaIdle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "MkaUp",
-			"indices": []
+			"indices": [],
+			"name": "MkaUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "MkaRight",
-			"indices": []
+			"indices": [],
+			"name": "MkaRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "MkaLeft",
-			"indices": []
+			"indices": [],
+			"name": "MkaLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "MkaDown",
-			"indices": []
+			"indices": [],
+			"name": "MkaDown"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-1,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "Mka Alt Down"
+			"fps": 24,
+			"name": "Mka Alt Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-1,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "Mka Alt Up"
+			"fps": 24,
+			"name": "Mka Alt Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle-alt",
-			"indices": [],
-			"name": "Mka Alt Idle"
+			"fps": 24,
+			"name": "Mka Alt Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "Mka Alt Right"
+			"fps": 24,
+			"name": "Mka Alt Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "Mka Alt Left"
+			"fps": 24,
+			"name": "Mka Alt Left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "Mka Miss Left",
-			"indices": []
+			"indices": [],
+			"name": "Mka Miss Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "Mka Miss Right",
-			"indices": []
+			"indices": [],
+			"name": "Mka Miss Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "Mka Miss Up",
-			"indices": []
+			"indices": [],
+			"name": "Mka Miss Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Mka Miss Down",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Mka Miss Down"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/monikanew",
+	"image": "characters/doki/monikap",
 	"position": [
 		110,
 		406

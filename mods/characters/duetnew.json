@@ -1,107 +1,107 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "MkaUp",
-			"indices": []
+			"indices": [],
+			"name": "MkaUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "MkaDown",
-			"indices": []
+			"indices": [],
+			"name": "MkaDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "MkaLeft",
-			"indices": []
+			"indices": [],
+			"name": "MkaLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "MkaRight",
-			"indices": []
+			"indices": [],
+			"name": "MkaRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "SenLeft",
-			"indices": []
+			"indices": [],
+			"name": "SenLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"fps": 24,
-			"name": "SenRight",
-			"indices": []
+			"indices": [],
+			"name": "SenRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "SenUp",
-			"indices": []
+			"indices": [],
+			"name": "SenUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN-alt",
-			"fps": 24,
-			"name": "SenDown",
-			"indices": []
+			"indices": [],
+			"name": "SenDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "FightIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "FightIdle"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/Duet",
+	"image": "characters/doki/Duet",
 	"position": [
 		10,
 		416

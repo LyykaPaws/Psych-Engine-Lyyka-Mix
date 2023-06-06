@@ -1,85 +1,85 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-9,
 				10
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-30
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				50
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				27
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "Dad idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "Meow!",
-			"fps": 24,
-			"name": "Dad meow",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
 			"indices": [],
-			"fps": 24,
-			"anim": "Bruh.",
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
 			"loop": false,
-			"name": "Dad stare"
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Meow!",
+			"indices": [],
+			"name": "Dad meow"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Bruh.",
+			"fps": 24,
+			"name": "Dad stare",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/KAPI",
+	"image": "characters/kapi/kapi",
 	"position": [
 		10,
 		0

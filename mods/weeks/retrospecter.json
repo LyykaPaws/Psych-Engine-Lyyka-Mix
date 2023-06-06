@@ -3,21 +3,17 @@
 	"difficulties": "normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": true,
 	"songs": [
 		[
-			"preseason",
+			"Preseason",
 			"retro-minus",
 			[
 				66,
@@ -26,7 +22,7 @@
 			]
 		],
 		[
-			"sigma",
+			"Sigma",
 			"retro-minus",
 			[
 				66,
@@ -35,7 +31,7 @@
 			]
 		],
 		[
-			"acidiron",
+			"Acidiron",
 			"retro-minus",
 			[
 				66,
@@ -44,7 +40,11 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "retrospecter",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "retrospecter"
 }

@@ -1,143 +1,143 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Senpai Returns Angy0",
-			"indices": []
+			"indices": [],
+			"name": "Senpai Returns Angy0"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 24,
 			"anim": "idle-loop",
-			"fps": 24,
-			"name": "Senpai Returns Angy0",
 			"indices": [
 				10,
 				11,
 				12,
 				13
-			]
+			],
+			"name": "Senpai Returns Angy0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				31,
 				-4
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Senpai Returns Left Angy0",
-			"indices": []
+			"indices": [],
+			"name": "Senpai Returns Left Angy0"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				31,
 				-4
 			],
+			"loop": true,
+			"fps": 24,
 			"anim": "singLEFT-loop",
-			"fps": 24,
-			"name": "Senpai Returns Left Angy0",
 			"indices": [
 				10,
 				11,
 				12,
 				13
-			]
+			],
+			"name": "Senpai Returns Left Angy0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-15,
 				-12
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Senpai Returns Right Angy0",
-			"indices": []
+			"indices": [],
+			"name": "Senpai Returns Right Angy0"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-15,
 				-12
 			],
+			"loop": true,
+			"fps": 24,
 			"anim": "singRIGHT-loop",
-			"fps": 24,
-			"name": "Senpai Returns Right Angy0",
 			"indices": [
 				10,
 				11,
 				12,
 				13
-			]
+			],
+			"name": "Senpai Returns Right Angy0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-8,
 				27
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Senpai Returns Up Angy0",
-			"indices": []
+			"indices": [],
+			"name": "Senpai Returns Up Angy0"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-8,
 				27
 			],
-			"anim": "singUP-loop",
-			"fps": 24,
-			"name": "Senpai Returns Up Angy0",
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-78
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Senpai Returns Down Angy0",
-			"indices": []
-		},
-		{
 			"loop": true,
-			"offsets": [
-				-10,
-				-78
-			],
-			"anim": "singDOWN-loop",
 			"fps": 24,
-			"name": "Senpai Returns Down Angy0",
+			"anim": "singUP-loop",
 			"indices": [
 				10,
 				11,
 				12,
 				13
-			]
+			],
+			"name": "Senpai Returns Up Angy0"
+		},
+		{
+			"offsets": [
+				-10,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Senpai Returns Down Angy0"
+		},
+		{
+			"offsets": [
+				-10,
+				-78
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Senpai Returns Down Angy0"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/SenpaiNonPixel_Assets",
+	"image": "characters/doki/senpainop",
 	"position": [
 		-20,
 		100

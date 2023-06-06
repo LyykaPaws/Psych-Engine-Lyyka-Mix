@@ -1,59 +1,59 @@
 {
-	"songs": [
-		[
-			"wocky",
-			"kapi",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"beathoven",
-			"kapi",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"hairball",
-			"kapiangry",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"nyaw",
-			"kapi",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
-	"hiddenUntilUnlocked": false,
+	"storyName": "Arcade Showdown",
+	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "kapi",
-	"difficulties": "hard",
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"storyName": "Arcade Showdown",
-	"weekName": "kapi_arcade",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"startUnlocked": true,
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"songs": [
+		[
+			"Wocky",
+			"kapi",
+			[
+				255,
+				40,
+				255
+			]
+		],
+		[
+			"Beathoven",
+			"kapi",
+			[
+				255,
+				40,
+				255
+			]
+		],
+		[
+			"Hairball",
+			"kapiangry",
+			[
+				255,
+				40,
+				255
+			]
+		],
+		[
+			"Nyaw",
+			"kapi",
+			[
+				255,
+				40,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "kapi_arcade"
 }

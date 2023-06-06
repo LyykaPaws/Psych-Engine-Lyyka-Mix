@@ -1,74 +1,74 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Nat Idle"
+			"fps": 24,
+			"name": "Nat Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-29,
 				-7
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Nat Sing Note Left"
+			"fps": 24,
+			"name": "Nat Sing Note Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-45,
 				13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Nat Sing Note Right"
+			"fps": 24,
+			"name": "Nat Sing Note Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				37,
 				-19
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Nat Sing Note DOWN"
+			"fps": 24,
+			"name": "Nat Sing Note DOWN",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				32,
 				6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Nat Sing Note Up"
+			"fps": 24,
+			"name": "Nat Sing Note Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-12,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hmmph",
-			"indices": [],
-			"name": "Nat hmph"
+			"fps": 24,
+			"name": "Nat hmph",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Doki_NatKapi_Assets",
+	"image": "characters/doki/natkapi",
 	"position": [
 		240,
 		160
@@ -78,7 +78,7 @@
 	"healthbar_colors": [
 		252,
 		149,
-		211
+		231
 	],
 	"camera_position": [
 		0,

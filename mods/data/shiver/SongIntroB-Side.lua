@@ -30,7 +30,7 @@ function onCreate()
 	addLuaText('JukeBoxText')
 	
 	--text for the song name
-	makeLuaText('JukeBoxSubText', songName, 300, -305-IntroTagWidth, 30)
+	makeLuaText('JukeBoxSubText', 'Shiver', 300, -305-IntroTagWidth, 30)
 	setTextAlignment('JukeBoxSubText', 'left')
 	setObjectCamera('JukeBoxSubText', 'other')
 	setTextSize('JukeBoxSubText', IntroSubTextSize)

@@ -3,18 +3,14 @@
 	"difficulties": "Doki",
 	"hideFreeplay": false,
 	"weekBackground": "doki",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dokitogether",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"high school conflict",
@@ -53,7 +49,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "ddto",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dokitogether",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ddto"
 }
