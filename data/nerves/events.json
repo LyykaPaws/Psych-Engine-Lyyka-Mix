@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				4200,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				36600,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				40200,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				41400,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				66600,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				109800,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

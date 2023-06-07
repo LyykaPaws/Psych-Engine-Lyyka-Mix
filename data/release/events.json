@@ -1,0 +1,16 @@
+{
+	"song": {
+		"events": [
+			[
+				104625,
+				[
+					[
+						"Play Animation",
+						"tightbars",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

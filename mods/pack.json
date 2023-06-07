@@ -1,7 +1,0 @@
-{
-	"name": "Lyyka Mix",
-	"description": "A collection of all my favorite songs from different mods ported to the Psych Engine (the best engine)",
-	"restart":true,
-	"runsGlobally": false,
-	"color": [45, 220, 254]
-}

@@ -1,1 +1,13 @@
 modpack.zip
+mods/data/madness/madness-nevada.json
+crash/*.txt
+assets/*
+manifest/*
+plugins/*
+do NOT readme.txt
+icon.ico
+libvlc.dll
+libvlccore.dll
+lime.ndll
+modsList.txt
+PsychEngine.exe

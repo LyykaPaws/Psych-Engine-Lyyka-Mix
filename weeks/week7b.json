@@ -1,0 +1,50 @@
+{
+	"storyName": "Week 7B",
+	"difficulties": "flip",
+	"hideFreeplay": false,
+	"weekBackground": "week7b",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ugh B",
+			"captain",
+			[
+				130,
+				113,
+				113
+			]
+		],
+		[
+			"Guns B",
+			"Captain",
+			[
+				130,
+				113,
+				113
+			]
+		],
+		[
+			"Stress B",
+			"captain",
+			[
+				130,
+				113,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 7B"
+}

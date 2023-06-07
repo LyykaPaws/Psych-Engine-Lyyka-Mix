@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nat Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nat Sing Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nat Sing Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nat Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nat Sing Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-1
+			],
+			"anim": "hmmph",
+			"fps": 24,
+			"name": "Nat hmph",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doki/natkapi",
+	"position": [
+		240,
+		160
+	],
+	"healthicon": "natsuki-new",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		149,
+		231
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1
+}
