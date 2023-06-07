@@ -35,12 +35,14 @@ function onCreate()
 	setProperty('bl.alpha', 1)
 	addLuaSprite('bl', false)
 
+end
 
+function onCreatePost()
+	--Preload character swaps after stage has been made.
 	addCharacterToList('senpai-angry-wilted', 'dad')
 	addCharacterToList('senpai-nonpixel-wilted', 'dad')
 	addCharacterToList('senpai-angrynonpixel-wilted', 'dad')
 	addCharacterToList('monika-pixelnew-wilted', 'boyfriend')
-
 end
 
 function onStepHit()

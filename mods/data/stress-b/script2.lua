@@ -1,5 +1,6 @@
 function onCreate()
 	makeChart()
+	addCharacterToList('bf-holding-gf-bside', 'bf')
 end
 
 chartTankman = {}
