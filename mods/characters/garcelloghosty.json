@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "garcello Sing Note RIGHT",
-			"indices": []
+			"indices": [],
+			"name": "garcello Sing Note RIGHT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "garcello idle",
-			"indices": []
+			"indices": [],
+			"name": "garcello idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "garcello Sing Note LEFT",
-			"indices": []
+			"indices": [],
+			"name": "garcello Sing Note LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "garcello Sing Note DOWN",
-			"indices": []
+			"indices": [],
+			"name": "garcello Sing Note DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "garcello Sing Note UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "garcello Sing Note UP"
 		}
 	],
 	"no_antialiasing": false,
@@ -62,7 +62,7 @@
 		0,
 		0
 	],
-	"healthicon": "face",
+	"healthicon": "garcello-dead",
 	"flip_x": false,
 	"healthbar_colors": [
 		161,
