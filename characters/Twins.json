@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GhostTwinIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 36,
+			"name": "GhostTwinLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GhostTwinDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GhostTwinUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GhostTwinRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Twins",
+	"position": [
+		-200,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		175,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

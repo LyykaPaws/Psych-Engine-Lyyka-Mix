@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Whitty Idle"
+		},
+		{
+			"offsets": [
+				30,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Whitty Sing Left0"
+		},
+		{
+			"offsets": [
+				-20,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Whitty Sing Down0"
+		},
+		{
+			"offsets": [
+				-46,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Whitty Sing Up0"
+		},
+		{
+			"offsets": [
+				-30,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Whitty Sing Right0"
+		},
+		{
+			"offsets": [
+				35,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Whitty Sing Left MISS"
+		},
+		{
+			"offsets": [
+				-10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Whitty Sing Down MISS"
+		},
+		{
+			"offsets": [
+				-46,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Whitty Sing Up MISS"
+		},
+		{
+			"offsets": [
+				-25,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Whitty Sing Right MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitty",
+	"position": [
+		0,
+		25
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		37,
+		182
+	],
+	"camera_position": [
+		200,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

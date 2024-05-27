@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bluskys idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				88,
+				-3
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bluskys Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				-20
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bluskys Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				25
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bluskys Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-65,
+				-25
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bluskys Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bluskyshavoc",
+	"position": [
+		-30,
+		100
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		75,
+		255
+	],
+	"camera_position": [
+		125,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,12 @@
+{
+	"songs": [["Havoc", "bf", [45, 37, 182]]],
+	"weekCharacters": ["gf","","bf"],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

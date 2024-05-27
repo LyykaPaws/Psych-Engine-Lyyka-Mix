@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "pompom dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "pompom dance idle"
+		},
+		{
+			"offsets": [
+				150,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pompom sing right"
+		},
+		{
+			"offsets": [
+				120,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pompom DOWN"
+		},
+		{
+			"offsets": [
+				-40,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				2,
+				3,
+				4,
+				2,
+				3,
+				4,
+				2,
+				3,
+				4
+			],
+			"name": "pompom UP NOTE"
+		},
+		{
+			"offsets": [
+				-60,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pompom left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pompom",
+	"position": [
+		30,
+		175
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		37,
+		182
+	],
+	"camera_position": [
+		50,
+		125
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

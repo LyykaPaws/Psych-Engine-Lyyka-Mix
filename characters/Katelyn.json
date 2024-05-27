@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleKatelyn"
+		},
+		{
+			"offsets": [
+				-75,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RightKatelyn"
+		},
+		{
+			"offsets": [
+				-175,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownKatelyn"
+		},
+		{
+			"offsets": [
+				-125,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpKatelyn"
+		},
+		{
+			"offsets": [
+				-275,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LeftKatelyn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Katelyn",
+	"position": [
+		-150,
+		335
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		37,
+		182
+	],
+	"camera_position": [
+		0,
+		-175
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

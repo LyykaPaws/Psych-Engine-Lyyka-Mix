@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cerberus idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				5
+			],
+			"anim": "miau",
+			"fps": 24,
+			"name": "Cerberus Sing Note UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cerberusEX",
+	"position": [
+		-600,
+		100
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		37,
+		182
+	],
+	"camera_position": [
+		-150,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

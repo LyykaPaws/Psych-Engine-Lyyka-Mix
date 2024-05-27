@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mom Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mom Pose Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mom Left Pose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MOM DOWN POSE0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mom Up Pose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-60
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Mom Pose Left MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-30
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Mom Left Pose MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-180
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MOM DOWN POSE MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				55
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Mom Up Pose MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mom_Assets",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		37,
+		182
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
